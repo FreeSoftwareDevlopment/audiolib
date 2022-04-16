@@ -1,0 +1,2 @@
+#define AUDIOVOLUMECONTROL_API __declspec(dllexport)
+#define AUDIOVOLUMECONTROL_API __declspec(dllimport)
